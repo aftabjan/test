@@ -1,0 +1,23 @@
+From 389f9230250dfe841aa62ba9dc95668c798b9008 Mon Sep 17 00:00:00 2001
+From: Aftab Jan <aftab.jan@ki5.co.uk>
+Date: Mon, 27 Feb 2017 17:59:55 +0500
+Subject: [PATCH 1/2] hotfix
+
+---
+ new-branch-source.txt | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+diff --git a/new-branch-source.txt b/new-branch-source.txt
+index ea69a7f..08d21e1 100644
+--- a/new-branch-source.txt
++++ b/new-branch-source.txt
+@@ -1 +1,3 @@
+-new branch
+\ No newline at end of file
++new branch
++
++merge and delete branch
+\ No newline at end of file
+-- 
+1.9.4.msysgit.2
+
