@@ -4,3 +4,4 @@ git config user.email "aftab.jan@ki5.co.uk"
 git config user.email
 git testing pull request
 anout test
+checkout pull request with message
